@@ -1,16 +1,36 @@
-## Hi there 👋
+```ssh
+root@SimplyWebs:~# cat /etc/motd
 
-<!--
-**Fen1ks1/Fen1ks1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#########################################
+#                                       #
+#   ____  ____  __ _   __  __ _  ____   #
+#  (  __)(  __)(  ( \ /  \(  / )/ ___)  #
+#   ) _)  ) _) /    /(_/ / )  ( \___ \  #
+#  (__)  (____)\_)__) (__)(__\_)(____/  #
+#                                       #
+#                                       #
+#########################################
 
-Here are some ideas to get you started:
+-------------------------------------------------
+[ WHOAMI ]
+- `fake.dev` → building stuff that *somehow works*  
+- Custom web panels → **from scratch**, no templates, no bullshit  
+- Fivem scripts (I was 14, ok?) 
+-------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[ CURRENT OPS ]
+**Simply Webs**  
+> full-stack control center for clients & admins  
+> written in React + Vite + Tailwind + Node.js + PostgreSQL  
+> Hosting + domains + full service → clients focus on biz, I handle the computers  
+-------------------------------------------------
+
+[ ARSENAL ]
+[ SYS  ]  Linux • bash • nginx • docker • honourable mention: Windows XP
+[ CODE ]  JS • HTML • CSS • React • Node.js • Lua • Java(bullshit) • ||ChatGpt||
+[ DATA ]  SQL • Prisma • API design
+[ FLOW ]  Git • CI/CD • Slim like shady
+-------------------------------------------------
+
+root@SimplyWebs:~# echo "@🖤 Fen1ks"
+@🖤 Fen1ks
