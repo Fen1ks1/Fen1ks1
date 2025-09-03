@@ -12,17 +12,17 @@ root@SimplyWebs:~# cat /etc/motd
 #########################################
 
 -------------------------------------------------
-[ WHOAMI ]
+[ ABOUTME ]
 - `fake.dev` → building stuff that *somehow works*  
-- Custom web panels → **from scratch**, no templates, no bullshit  
-- Fivem scripts (I was 14, ok?) 
+- Custom web maker → **from scratch**
+- Fivem fullstack (I was 14, ok?)
 -------------------------------------------------
 
 [ CURRENT OPS ]
 **Simply Webs**  
 > full-stack control center for clients & admins  
 > written in React + Vite + Tailwind + Node.js + PostgreSQL  
-> Hosting + domains + full service → clients focus on biz, I handle the computers  
+> Hosting + domains + full service → clients focus on biz, I handle the computers
 -------------------------------------------------
 
 [ ARSENAL ]
